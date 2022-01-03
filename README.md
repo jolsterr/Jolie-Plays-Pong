@@ -6,4 +6,6 @@
 - Keyboard Binding (onkey())
 - Moving the cordinates of the pieces.
 ## With Sound
-#### The Repository contains a pong game without sound and with sound as respectively named.
+The Repository contains a pong game without sound and with sound as respectively named. Sound is only available for devices on MacOS (for Linux, replace `os.system(afplay bump2.wav&)` with `os.system(aplay bump2.wav&)` and for Windows `import winsound`, then replace `os.system(afplay bump2.wav&)` with `winsound.PlaySound("bump2.wav", winsound.SND_ASYNC)`.
+## Audio File 
+Attached as bump2.wav

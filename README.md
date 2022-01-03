@@ -5,4 +5,5 @@
 - A Main Game Loop (consisting of moving the ball, checking the borders, and collisions) 
 - Keyboard Binding (onkey())
 - Moving the cordinates of the pieces.
-
+## With Sound
+#### The Repository contains a pong game without sound and with sound as respectively named.
